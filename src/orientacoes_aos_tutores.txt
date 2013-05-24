@@ -1,0 +1,27 @@
+AI-0063
+-------
+
+Objetivos da Atividade Interativa (AI): exercitar a segunda lei de Newton.
+
+Objetivo do usuário: representar corretamente o vetor aceleração do ponto-material P.
+
+---
+
+Resolução do exercício 1: a resultante de forças agindo sobre o ponto-material é F_1 + F_2 + F_3. Assim, pela segunda lei de Newton, a aceleração é (F_1 + F_2 + F_3) / m, onde m é a massa de P, dada no enunciado do exercício.
+
+Então, para resolver o exercício basta arrastar a ponta do vetor a para o resultado da conta acima.
+
+---
+
+Resolução do exercício 2: ainda conforme a segunda lei de Newton, ma = F_1 + F_2 + F_3, de modo que F_1 pode ser obtido em função dos demais vetores. Feita a conta, basta arrastar a ponta do vetor F_1 para o resultado (x,y) encontrado.
+
+---
+
+Resolução do exercício 3: a proposta da discussão é chamar a atenção para o fato de que os vetores de força e de aceleração têm dimensões diferentes: N (Newton) e m/s^2, embora sejam representados num mesmo plano cartesiano. Isto é, embora o vetor de aceleração (1,1) se sobreponha ao vetor força (1,1), eles têm significados distintos.
+
+---
+
+Observações
+1) Os vetores F_1, F_2, F_3 e a, bem como a massa do ponto-material P, são escolhidos aleatoriamente a cada acesso à AI.
+2) Esta AI utiliza o Geogebra, que requer o plugin do Java instalado.
+3) Atenção: às vezes o Geogebra exibe incorretamente a cena, apresentando uma série de linhas sem sentido. Para resolver isso simplesmente arraste a cena com o botão "transladar janela de visualização", no canto superior esquerdo da janela do Geogebra.
